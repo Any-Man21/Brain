@@ -296,3 +296,55 @@ nav a:hover{
     display: flex;
 }
 
+
+#explore{
+    background-color: rgb(244, 239, 239);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+    padding-left: 40px ;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#explore .explore-texts h1{
+    color: var(--Style, rgba(0, 25, 49, 1));
+    font-style: Bold;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+}
+
+#explore .explore-texts p{
+    color: rgba(98, 115, 130, 1);
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+.explore-container{
+    align-items: center;
+    text-align: center;
+}
+
+
+.ntb{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    gap: 10px;
+}
+
+.btn3{
+    color: white;
+    background-color: #30B868;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    padding: 16.5px 16px;
+    border-radius: 5px;
+}
+
